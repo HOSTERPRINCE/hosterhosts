@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915763319076",
+    "project_id": "hosterhosts-f3be5",
+    "storage_bucket": "hosterhosts-f3be5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915763319076:android:1ad68148bc310e252f63b1",
+        "android_client_info": {
+          "package_name": "com.example.hosterhosts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfEyCwP9t64nyRYWSbRFiwkjM7-1Vi0Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
